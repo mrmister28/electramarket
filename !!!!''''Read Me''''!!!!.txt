@@ -1,0 +1,24 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+ADMIN PANEL LOGIN:
+
+>> NOTE : (for admin panel, start XAMPP (Apache and MySQL), then on browser type localhost/**folder_name i.e.,(electramarket)**/admin/admin_login.php
+>>Enter the following details in Login for Admin Panel.
+
+Username: admin
+Password: 111
+
+USER LOGIN:
+
+>> NOTE : (for admin panel, start XAMPP Apache and MySQL, then on browser type localhost/**folder_name i.e.,(electramarket)**/
+>> First Register the user by filling the registration page.
+>> Then fill the credentials you provided while registration. 
+
+DON'T FORGET TO CREATE A DATABASE NAMING "shop_db" AND IMPORT THE SQL FILE TO RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+DON'T FORGET TO ADD PRODUCTS THROUGH ADMIN PANEL FROM PROJECT IMAGES FOLDER.
+
+>>DATABASE FILE IS INSIDE THE FOLDER!
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
